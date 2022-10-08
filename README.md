@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cajetan Oriekezie</h1>
 <h3 align="center">I'm a Full Stack Developer and Researcher</h3>
 
-- 🔭 I’m currently working at [Lite Sigma Tech Limited](https://litesigma.com.ng/)
-
-- 🌱 I’m currently learning **Learning everything that relates to web development and machine learning**
+- 🔭 I’m currently working at [Lite Sigma Tech Limited](https://litesigma.com.ng/) while **Learning everything that relates to web development and machine learning**
 
 - 👯 I’m looking to collaborate on **a web development, research or machine learning project**
 
