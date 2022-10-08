@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cajetan Oriekezie</h1>
 <h3 align="center">I'm a Full Stack Developer and Researcher</h3>
+<h4 align="center">I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective</h4>
+
 
 - 🔭 I’m currently working at [Lite Sigma Tech Limited](https://litesigma.com.ng/) while **Learning everything that relates to web development and machine learning**
 
@@ -31,3 +33,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cajetanoriekezie&show_icons=true&locale=en" alt="cajetanoriekezie" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cajetanoriekezie&" alt="cajetanoriekezie" /></p>
+<a href="mailto:oriekeziecajetan@gmail.com?&subject=I need a website for my company">Click here to create your website now </a> 
