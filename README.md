@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Python and its frameworks, web development, and Research**
 
-- 📫 How to reach me **oriekeziecajetan@gmail.com**
+- 📫 Click <a href="mailto:oriekeziecajetan@gmail.com&subject=I need a website for my company">Here</a> to start your project 
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/cajetanemekaoriekezie/](https://www.linkedin.com/in/cajetanemekaoriekezie/)
 
