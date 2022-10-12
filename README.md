@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Cajetan Oriekezie</h1>
-<h3 align="center">I'm a Full Stack Developer and Researcher</h3>
-<h4 align="center">I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective</h4>
+<h1 align="center">I design websites that convert</h1>
+<h4 align="center">We build user-friendly websites, apps, and landing pages that convert more visitors into customers.</h4>
 
 
 - 🔭 I’m currently working at [Lite Sigma Tech Limited](https://litesigma.com.ng/) while **Learning everything that relates to web development and machine learning**
