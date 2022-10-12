@@ -1,8 +1,8 @@
 <h1 align="center">I design websites that convert</h1>
-<h4 align="center">We build user-friendly websites, apps, and landing pages that convert more visitors into customers.</h4>
+<h4 align="center">I build user-friendly websites, apps, and landing pages that convert more visitors into customers.</h4>
 
 
-- 🔭 I’m currently working at [Lite Sigma Tech Limited](https://litesigma.com.ng/) while **Learning everything that relates to web development and machine learning**
+- 🔭 I’m currently working at [Lite Sigma Tech Limited](https://litesigma.com.ng/) as a software developer
 
 - 👯 I’m looking to collaborate on **a web development, research or machine learning project**
 
